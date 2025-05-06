@@ -24,4 +24,9 @@ const projects = [
     url: "https://nextjs-store-draft-one.vercel.app",
     image: "../public/store-draft.png",
   },
+  {
+    title: "jobify-next-ts",
+    url: "https://jobify-next-ts.vercel.app",
+    image: "../public/jobify-next-ts.png",
+  },
 ];
