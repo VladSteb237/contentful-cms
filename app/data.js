@@ -1,8 +1,8 @@
 const projects = [
   {
-    title: "birthday buddy",
-    url: "https://react-vite-projects-1-birthday-buddy.netlify.app/",
-    image: "../public/birthday.png",
+    title: "gptgenius",
+    url: "https://gptgenius-js.vercel.app",
+    image: "../public/gptgenius.png",
   },
   {
     title: "tours",
