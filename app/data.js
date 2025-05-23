@@ -22,7 +22,7 @@ const projects = [
   {
     title: "store draft",
     url: "https://nextjs-store-draft-one.vercel.app",
-    image: "../public/store-draft.png",
+    image: "../public/store draft.png",
   },
   {
     title: "jobify-next-ts",
