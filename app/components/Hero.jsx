@@ -7,10 +7,11 @@ const Hero = () => {
     <div className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful SMC</h1>
+          <h1>Stebnitskii SMC</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-            dolorem repudiandae odio nulla corporis, quo porro. Similique
+            Created by Cool Programmer -
+            <span className="text-3xl font-bold"> Stebnitskii Vladislav. </span>
+            Minus dolorem repudiandae odio nulla corporis, quo porro. Similique
             recusandae minus velit sapiente, qui tenetur iusto dicta? Minus
             dolorem repudiandae odio nulla corporis.
           </p>
